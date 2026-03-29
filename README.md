@@ -86,7 +86,7 @@ npm run dev
 
 
 ## 🦦 Personal note
-After building a full-stack application with my teammates at BeachHacks 9.0, I wanted to try my hand at creating one on my own so here we are. I am extremely proud of what I have created and I learned many skills that I will definitely be using at my next hackathon :3
+This is my first time creating a complex client-side application on my own. I am extremely proud of what I have created and I learned many skills that I will definitely be using at my next hackathon :3
 
 ---
 <p align="center">
