@@ -3,7 +3,7 @@ A browser-based teleprompter that records video + audio while you read your scri
 
 > **Inspiration**: After recording numerous videos for university classes where I read off a script, I wanted a tool that combines a teleprompter with recording—just like news stations use. So I built one.
 
-🥭 **Live Demo**: [https://teleprompter-web.vercel.app](https://teleprompter-ivory.vercel.app/)
+🥭 **Live Demo**: [https://teleprompter-ivory.vercel.app](https://teleprompter-ivory.vercel.app/)
 
 
 ## 🍉 Technologies
